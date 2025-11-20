@@ -1,0 +1,31 @@
+#plane{
+    margin: 0px;
+}
+
+#canvas{
+    position: absolute;
+}
+
+img{
+    overflow: visible;
+    position: absolute;
+}
+
+#cursor_img{
+    opacity: 0.5;
+}
+
+.gate{
+    width: 75px;
+    height: 75px;
+}
+
+.input{
+    width: 50px;
+    height: 50px;
+}
+
+.output{
+    width: 50px;
+    height: 50px;
+}
